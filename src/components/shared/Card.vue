@@ -17,4 +17,9 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style  scoped>
+.card {
+  background: #fff;
+  color:#212121;
+}
+</style>
